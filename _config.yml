@@ -1,7 +1,8 @@
 name: captronnc
 favicon: null
-layout_spectrum: 0.2745147447567433
+layout_spectrum: 0.49847
 typography_spectrum: 0.25408077193424106
+title: Bird Watching From My Frontyard
 cta:
   domain: null
   bucket: null
@@ -16,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#d8ded2'
+    - '#a8baba'
+    - '#62644e'
+    - '#35291d'
+    - '#6092db'
   brandStrength: 0.7725089539308101
   lightness: 0.08602102333679795
   saturation: 0.9454567760694772
