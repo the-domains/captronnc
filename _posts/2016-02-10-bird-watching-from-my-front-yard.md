@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T21:37:58.917Z'
-dateModified: '2016-02-10T21:37:55.734Z'
+datePublished: '2016-02-10T21:41:54.108Z'
+dateModified: '2016-02-10T21:41:53.026Z'
 title: ''
 author: []
 sourcePath: _posts/2016-02-10-bird-watching-from-my-front-yard.md
