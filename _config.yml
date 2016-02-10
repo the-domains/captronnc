@@ -1,0 +1,28 @@
+name: captronnc
+favicon: null
+layout_spectrum: 0.2745147447567433
+typography_spectrum: 0.25408077193424106
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#d8ded2'
+    - '#a8baba'
+    - '#62644e'
+    - '#35291d'
+    - '#6092db'
+  brandStrength: 0.7725089539308101
+  lightness: 0.08602102333679795
+  saturation: 0.9454567760694772
+  rhythmicContrast: 0.22870458662509918
+purpose: []
