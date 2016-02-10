@@ -6,9 +6,9 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-10T21:11:02.322Z'
-dateModified: '2016-02-10T21:10:58.795Z'
-title: Bird Watching from my front yard
+datePublished: '2016-02-10T21:20:43.572Z'
+dateModified: '2016-02-10T21:20:09.255Z'
+title: ''
 author: []
 sourcePath: _posts/2016-02-10-bird-watching-from-my-front-yard.md
 published: true
