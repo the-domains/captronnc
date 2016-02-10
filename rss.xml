@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Bird Watching From My Frontyard]]></title>
         <description><![CDATA[Bird Watching From My Frontyard]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/captronnc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 21:52:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 22:10:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/captronnc/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0bad459-05da-4e33-8ec9-773e2b4d3306.jpg">]]></description>
+            <link>https://thegrid.ai/captronnc/32bd0967-932f-4dee-a6a3-fc55be91c926/index.html</link>
+            <guid isPermaLink="false">32bd0967-932f-4dee-a6a3-fc55be91c926</guid>
+            <pubDate>Wed, 10 Feb 2016 22:10:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0948ee6a-15d3-432e-be45-be6465cccffe.jpg">]]></description>
-            <link>undefinedd3ce5bc8-8ef1-4871-a741-48d7b87480bd/index.html</link>
+            <link>https://thegrid.ai/captronnc/d3ce5bc8-8ef1-4871-a741-48d7b87480bd/index.html</link>
             <guid isPermaLink="false">d3ce5bc8-8ef1-4871-a741-48d7b87480bd</guid>
             <pubDate>Wed, 10 Feb 2016 21:52:12 GMT</pubDate>
         </item>
