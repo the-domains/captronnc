@@ -1,20 +1,4 @@
-name: captronnc
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.7458
-title: Bird Watching From My Frontyard
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#d8ded2'
@@ -26,4 +10,24 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.22870458662509918
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: captronnc
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Recipes
+    id: cc7e36f2-0c00-4f5b-9ced-caeaa3a86cf1
+    type: content
+favicon: null
+title: Bird Watching From My Frontyard
 purpose: []
